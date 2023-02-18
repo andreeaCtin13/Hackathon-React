@@ -1,0 +1,52 @@
+{
+    "products":[
+            {
+              "id": 1,
+              "Image": "./iphone.jpg",
+              "productName": "iPhone",
+              "price": 5000,
+              "quantity": 0
+            },
+            {
+              "id": 2,
+              "image": "./sonyCamera.jpg",
+              "productName": "SonyCamera",
+              "price": 8930,
+              "quantity": 0
+            },
+            {
+              "id": 3,
+              "image": "./samsungTV.jpg",
+              "productName": "Samsung QLED TV",
+              "price": 7900,
+              "quantity": 0
+            },
+            {
+              "id": 4,
+              "image": "./xbox.jpg",
+              "productName": "Xbox",
+              "price": 6000,
+              "quantity": 0
+            },
+            {
+              "id": 5,
+              "image": "./dellMonitor",
+              "productName": "Dell monitor",
+              "price": 700,
+              "quantity": 0
+            },
+            {
+              "id": 6,
+              "image": "./iPad.jpg",
+              "productName": "iPad Pro",
+              "price": 9990,
+              "quantity": 0
+            }
+        ],
+        "users":[
+            { "id":1 ,"email":"scott@gmail.com", "password":"caca"},
+            { "id":2 ,"email":"costareebsbwa@gmail.com", "password":"yuhu"},
+            { "id":1 ,"email":"naibasamaia@gmail.com", "password":"caca2"}
+
+        ]
+    }
